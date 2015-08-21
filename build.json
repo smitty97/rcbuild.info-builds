@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "RCX/H250CF-3K-Quadcopter",
+    "esc": "RCX/12A-Sky-(SimonK)-Brushless-ESC-for-Multicopter-(2-3S)",
+    "motor": "RCX/H1806-2400KV",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "Gemfan/5x4.5-FG-MR"
+    ],
+    "arm": "RCX/H250CF-DT-3K-Arm",
+    "battery": [
+      "Turnigy/1800mAh-3S-40C-Lipo-Pack"
+    ],
+    "osd": "MultiRotorMania/MicroOSD",
+    "receiver": "FrSky/X8R",
+    "flightcam": "FatShark/600TVL-CMOS-Cam-Fixed-Mount",
+    "hqcam": "",
+    "videotx": "FatShark/5.8GHz-250mW",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }

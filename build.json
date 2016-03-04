@@ -1,22 +1,22 @@
 {
   "config": {
     "frame": "RCX/H250CF-3K-Quadcopter",
-    "esc": "RCX/12A-Sky-(SimonK)-Brushless-ESC-for-Multicopter-(2-3S)",
-    "motor": "RCX/H1806-2400KV",
+    "esc": "Favorite FVT LittleBee 20A",
+    "motor": "RCX/H2205-2350KV",
     "fc": "AbuseMark/Acro-Naze32",
     "prop": [
       "Gemfan/5x4.5-FG-MR"
     ],
     "arm": "RCX/H250CF-DT-3K-Arm",
     "battery": [
-      "Turnigy/1800mAh-3S-40C-Lipo-Pack"
+      "Turnigy/1800mAh-4S-30C-LiPo-battery-(XT60)"
     ],
     "osd": "MultiRotorMania/MicroOSD",
     "receiver": "FrSky/X8R",
-    "flightcam": "FatShark/600TVL-CMOS-Cam-Fixed-Mount",
-    "hqcam": "",
-    "videotx": "FatShark/5.8GHz-250mW",
-    "blackbox": "",
+    "flightcam": "FatShark 600TVL CMOS Cam Custom Tilt Mount",
+    "hqcam": "SpyTec/Mobius-Action-Cam",
+    "videotx": "ImmersionRC/5.8GHz-25mw",
+    "blackbox": "SPIFLASH 16MB",
     "voltagereg": ""
   },
   "version": 1
